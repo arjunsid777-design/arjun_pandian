@@ -132,6 +132,14 @@ export const AWARDS = [
     featured: true,
   },
   {
+    icon: "🏅",
+    title: "Sports Day Torch Bearer — 3 Consecutive Years",
+    meta: "2024–2026 · Sports & Leadership",
+    detail: "Selected as the torch bearer at the school's annual Sports Day for three consecutive years, from 2024 to 2026.",
+    link: "",
+    featured: false,
+  },
+  {
     icon: "🎾",
     title: "CISCE U-19 Lawn Tennis — Zonal Singles & Doubles Champion",
     meta: "2026",
